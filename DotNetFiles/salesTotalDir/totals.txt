@@ -1,0 +1,7 @@
+2012,2000000000003
+2012,2000000000003
+Sales Total Store: C:\Users\antonio.farias\source\repos\Microsoft-Learn\DotNetFiles\stores - 2012,2000000000003
+Sales Total Store: 2012,2000000000003 - 
+2012,2000000000003
+2012,20
+Total Sales for all Stores - 2012,20
